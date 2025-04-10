@@ -1,0 +1,20 @@
+{
+  "Author": "Murphyanne",
+  "Name": "Tipsy",
+  "InternalName": "Tipsy",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Bringing alcohol to Eorzea!",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "sample",
+    "plugin",
+    "goats"
+  ],
+  "DalamudApiLevel": 12,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "Bringing alcohol to Eorzea!",
+  "AcceptsFeedback": true
+}
