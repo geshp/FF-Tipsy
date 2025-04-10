@@ -1,20 +1,26 @@
 {
-  "Author": "Murphyanne",
-  "Name": "Tipsy",
-  "InternalName": "Tipsy",
-  "AssemblyVersion": "0.0.0.1",
-  "Description": "Bringing alcohol to Eorzea!",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "sample",
-    "plugin",
-    "goats"
-  ],
-  "DalamudApiLevel": 12,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
-  "CanUnloadAsync": false,
-  "LoadPriority": 0,
-  "Punchline": "Bringing alcohol to Eorzea!",
-  "AcceptsFeedback": true
+    "Author": "Murphyanne",
+    "Name": "Tipsy",
+    "InternalName": "Tipsy",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Bringing alcohol to Eorzea!",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "sample",
+        "plugin",
+        "goats"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Bringing alcohol to Eorzea!",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/geshp/FF-Tipsy",
+    "DownloadLinkInstall": "https://github.com/geshp/FF-Tipsy/releases/download/alcohol/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/geshp/FF-Tipsy/releases/download/alcohol/latest.zip",
+    "AssemblyVersion": "0.0.1",
+    "IconUrl": "https://github.com/geshp/FF-Tipsy/releases/download/alcohol/tipsy.png"
+
 }
